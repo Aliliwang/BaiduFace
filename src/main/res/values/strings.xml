@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">识图</string>
+    <string name="log">登录</string>
+    <string name="reg">注册</string>
+    <string name="euser">请输入用户名</string>
+    <string name="epwd">请输入密码</string>
+    <string name="loger">用户名或密码错误</string>
+    <string name="logok">登录成功</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="user">用户名</string>
+    <string name="pwd">密码</string>
+    <string name="regsussces">注册成功</string>
+    <string name="regerror">账号已存在</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
